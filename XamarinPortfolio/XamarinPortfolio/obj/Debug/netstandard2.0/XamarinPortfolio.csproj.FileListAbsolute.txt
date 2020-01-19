@@ -1,0 +1,17 @@
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\bin\Debug\netstandard2.0\XamarinPortfolio.deps.json
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\bin\Debug\netstandard2.0\XamarinPortfolio.dll
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\bin\Debug\netstandard2.0\XamarinPortfolio.pdb
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.csprojAssemblyReference.cache
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.csproj.CoreCompileInputs.cache
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.AssemblyInfoInputs.cache
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.AssemblyInfo.cs
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.dll
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamarinPortfolio.pdb
+D:\EarlJamesRemedio\AndroidApps\XamarinPortfolio\XamarinPortfolio\XamarinPortfolio\obj\Debug\netstandard2.0\XamlC.stamp
