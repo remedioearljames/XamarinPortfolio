@@ -23,17 +23,8 @@ namespace XamarinPortfolio.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(UXDivers.Gorilla.iOS.Player.CreateApplication(
-              new UXDivers.Gorilla.Config("Good Gorilla")
-                  // Register Grial Shared assembly
-                  .RegisterAssemblyFromType<UXDivers.Artina.Shared.CircleImage>()
-                  // Register UXDivers Effects assembly
-                  .RegisterAssembly(typeof(UXDivers.Effects.Effects).Assembly)
-                  // FFImageLoading.Transformations
-                  .RegisterAssemblyFromType<FFImageLoading.Transformations.BlurredTransformation>()
-                  // FFImageLoading.Forms
-                  .RegisterAssemblyFromType<FFImageLoading.Forms.CachedImage>()
-                ));
+            LoadApplication(new App());
+
 
             return base.FinishedLaunching(app, options);
         }

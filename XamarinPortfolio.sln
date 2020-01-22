@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortfolio.Android", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortfolio.iOS", "XamarinPortfolio\XamarinPortfolio.iOS\XamarinPortfolio.iOS.csproj", "{46A5BE14-DD97-42FA-9F93-390394FBFF76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPortfolio", "XamarinPortfolio\XamarinPortfolio\XamarinPortfolio.csproj", "{B040D10D-55F9-4E7F-A40D-3DBC3A912627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinPortfolio", "XamarinPortfolio\XamarinPortfolio\XamarinPortfolio.csproj", "{B040D10D-55F9-4E7F-A40D-3DBC3A912627}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

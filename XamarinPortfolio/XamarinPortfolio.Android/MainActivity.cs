@@ -19,18 +19,7 @@ namespace XamarinPortfolio.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            LoadApplication(UXDivers.Gorilla.Droid.Player.CreateApplication(
-              this,
-              new UXDivers.Gorilla.Config("Good Gorilla")
-                // Register Grial Shared assembly
-                .RegisterAssemblyFromType<UXDivers.Artina.Shared.CircleImage>()
-                // Register UXDivers Effects assembly
-                .RegisterAssembly(typeof(UXDivers.Effects.Effects).Assembly)
-                // FFImageLoading.Transformations
-                .RegisterAssemblyFromType<FFImageLoading.Transformations.BlurredTransformation>()
-                // FFImageLoading.Forms
-                .RegisterAssemblyFromType<FFImageLoading.Forms.CachedImage>()
-              ));
+            LoadApplication(new App());
         }
     }
 }

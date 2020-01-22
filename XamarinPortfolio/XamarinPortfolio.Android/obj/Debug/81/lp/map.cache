@@ -16,6 +16,7 @@ Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
 Xamarin.Android.Support.Core.UI
 Xamarin.Android.Support.Core.Utils
+Xamarin.Android.Support.CustomTabs
 Xamarin.Android.Support.Design
 Xamarin.Android.Support.Fragment
 Xamarin.Android.Support.Media.Compat
@@ -48,4 +49,4 @@ System.Resources.ResourceManager
 System.ComponentModel
 System.Threading.Timer
 System.Security.Cryptography.Primitives
-Xamarin.Android.Support.CustomTabs
+Microsoft.WindowsAzure.Storage
